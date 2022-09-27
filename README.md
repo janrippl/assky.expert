@@ -1,2 +1,3 @@
 # assky.expert
 Regional Bootstrap Website Aš
+Edited Bootstrap Template from https://startbootstrap.com/template/modern-business under MIT License for small regional Expert's portal...
